@@ -17,5 +17,23 @@ const apps = [
     visual: "dungeon",
     visualLabel: "因数分解ダンジョン",
     visualSub: "FACTORING DUNGEON"
+  },
+  {
+    title: "M English",
+    description: "英単語ブロックを正しいレーンでキャッチしながら、ビジネス英語のSVOC語順を身につけるゲームです。",
+    url: "https://m-english-psi.vercel.app/",
+    tags: ["英語", "SVOC", "ビジネス英語"],
+    visual: "english",
+    visualLabel: "Catch the sentence",
+    visualSub: "M ENGLISH"
+  },
+  {
+    title: "りんごのぶんすう",
+    description: "りんごの切り分けを見ながら、分数の意味・たし算・1をつくる感覚を学ぶアプリです。",
+    url: "https://apple-fraction-problems.vercel.app/",
+    tags: ["算数", "分数", "ビジュアル学習"],
+    visual: "apple",
+    visualLabel: "りんごで分数",
+    visualSub: "APPLE FRACTIONS"
   }
 ];
