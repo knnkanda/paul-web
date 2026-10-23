@@ -35,5 +35,32 @@ const apps = [
     visual: "apple",
     visualLabel: "りんごで分数",
     visualSub: "APPLE FRACTIONS"
+  },
+  {
+    title: "りんごのたしざん",
+    description: "りんごを動かしながら、数が増える様子を見て足し算の意味を学ぶブラウザゲームです。",
+    url: "https://apple-addition.vercel.app/",
+    tags: ["算数", "足し算", "幼児向け"],
+    visual: "addition",
+    visualLabel: "りんごのたしざん",
+    visualSub: "APPLE ADDITION"
+  },
+  {
+    title: "九九ディフェンス",
+    description: "数字を入力して敵を倒しながら、九九をゲーム感覚で身につける算数ディフェンスゲームです。",
+    url: "https://make-table.vercel.app/",
+    tags: ["算数", "九九", "ディフェンス"],
+    visual: "table",
+    visualLabel: "九九ディフェンス",
+    visualSub: "MAKE TABLE"
+  },
+  {
+    title: "Make 10 パズル",
+    description: "落ちてくる数字ブロックをつなぎ、合計10を作って消していく連鎖パズルです。",
+    url: "https://make10-nu.vercel.app/",
+    tags: ["算数", "10の補数", "パズル"],
+    visual: "make10",
+    visualLabel: "MAKE 10",
+    visualSub: "NUMBER PUZZLE"
   }
 ];
