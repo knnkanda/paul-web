@@ -13,6 +13,9 @@
 
 新しいアプリを追加したいときは、この形式でこのチャットに送ってください。URLだけでも構いませんが、タイトル・説明・タグがあるとすぐに掲載できます。
 
+追加方法の案内URL：
+https://github.com/knnkanda/paul-web/blob/main/README.md
+
 ```text
 追加：
 URL：https://example.vercel.app/
